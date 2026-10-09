@@ -1,7 +1,7 @@
 # Tarea-Semana-4-Practica-3-
 # Infraestructura 1: FortiGate con DMZ y segmentación por VLAN
 
-**Video demostrativo:** [Ver en YouTube](ENLACE_DEL_VIDEO)
+**Video demostrativo:** [Ver en YouTube](https://youtu.be/vi289vaGnQ4))
 
 Autor: Jorge Emmanuel Sime Matos | Matrícula: 2025-0763
 Instituto Tecnológico de las Américas (ITLA), Seguridad Informática | Asignatura: Seguridad de Redes
