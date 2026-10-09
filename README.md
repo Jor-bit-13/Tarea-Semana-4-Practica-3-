@@ -137,13 +137,3 @@ El registro de tráfico del FortiGate muestra los intentos de la VLAN 10 hacia 1
 
 ![MariaDB](docs/imagenes/12-mysql-db.png)
 
-## Estructura del repositorio
-
-```
-README.md
-docs/imagenes/
-configs/FortiGate-backup.conf
-configs/SW1-running-config.txt
-configs/SW2-running-config.txt
-scripts/servidores-setup.sh
-```
