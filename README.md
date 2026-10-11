@@ -1,6 +1,6 @@
 # Infraestructura 1: FortiGate con DMZ y segmentación por VLAN
 
-**Video demostrativo:** [Ver en YouTube]((https://youtu.be/vi289vaGnQ4))
+**Video demostrativo:** [Ver en YouTube(https://youtu.be/vi289vaGnQ4)
 
 Autor: Jorge Emmanuel Sime Matos | Matrícula: 2025-0763
 Instituto Tecnológico de las Américas (ITLA), Seguridad Informática | Asignatura: Seguridad de Redes
