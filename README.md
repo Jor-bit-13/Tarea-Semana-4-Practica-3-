@@ -403,6 +403,7 @@ En el FortiGate: `execute ping 10.7.64.2`. Debe responder sin pérdidas y el pue
 
 ---
 
-## Créditos
+## Video
 
-Laboratorio académico (ITLA). Las credenciales y claves mostradas son solo de laboratorio; cámbialas en cualquier entorno real.
+[Laboratorio académico (ITLA). Las credenciales y claves mostradas son solo de laboratorio; cámbialas en cualquier entorno real.
+](https://youtu.be/Iiyzxy719LI)
